@@ -3,7 +3,7 @@ SparkFun Qwiic Button
 
 ![SparkFun Qwiic Button - Red](https://cdn.sparkfun.com//assets/parts/1/4/1/9/0/15584-Qwiic_Button_-_Red-01.jpg)
 
-[*Qwiic Button - Red (SPX-15584)*](https://www.sparkfun.com/products/15584)
+[*Qwiic Button - Red (SPX-15584)*](https://www.sparkfun.com/products/15584)  
 [*Qwiic Button - Blue (SPX-15585)*](https://www.sparkfun.com/products/15585)
 
 The SparkFun Qwiic Button is an I<sup>2</sup>C enabled button with a built-in LED, interrupts, variable I<sup>2</sup>C addres, and onboard button queues.
