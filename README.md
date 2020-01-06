@@ -2,8 +2,8 @@ SparkFun Qwiic Button
 ========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/15584"><img src="https://cdn.sparkfun.com//assets/parts/1/4/1/9/0/15584-Qwiic_Button_-_Red-01.jpg"></a></td>
-   <td><a href="https://www.sparkfun.com/products/15585"><img src="https://cdn.sparkfun.com//assets/parts/1/4/1/9/1/15585-Qwiic_Button_-_Blue-02.jpg"></a></td>
+   <td><a href="https://www.sparkfun.com/products/15584"><img src="https://cdn.sparkfun.com//assets/parts/1/4/1/9/0/15584-Qwiic_Button_-_Red-01a.jpg"></a></td>
+   <td><a href="https://www.sparkfun.com/products/15585"><img src="https://cdn.sparkfun.com//assets/parts/1/4/1/9/1/15585-Qwiic_Button_-_Blue-02a.jpg"></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://www.sparkfun.com/products/15584">SparkFun Qwiic Button - Red (SPX-15584)</a></td>
